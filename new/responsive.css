@@ -1,0 +1,17 @@
+@media only screen and (max-width: 570px) {
+/* Header */
+
+
+.navbar-brand{
+    padding-left: 0rem;
+}
+.header_content{
+    margin-top: 2rem;
+}
+.features_card.is-visible{
+    height: 330px;
+}
+
+
+
+}
